@@ -6,6 +6,10 @@
 ## Objective
 The objective of this Customer Sales Analysis project is to analyze sales data to gain valuable insights into customer behavior and sales patterns. By utilizing Tableau, we aim to create an interactive and visually appealing dashboard that provides comprehensive information on revenue, customer demographics, discounts, and regional sales performance. This analysis will enable data-driven decision-making and help identify opportunities for business growth and optimization.
 
+![Custemer Data Analysis](https://github.com/manishmehta-in/Sales-Insights-Dashboard/assets/140696340/eab20d4a-8d75-4519-afb0-bc1b55a4020d)
+
+**Feel free to explore the dashboard and gain valuable insights into customer sales patterns!**
+
 ## Steps
 
 ### Data Collection and Preparation
@@ -44,7 +48,3 @@ The objective of this Customer Sales Analysis project is to analyze sales data t
 - **Gender-based Preferences:** Inform product development and targeted marketing.
 - **Dashboard Interactivity:** Enable dynamic data exploration, uncovering real-time trends and patterns.
 
-![Custemer Data Analysis](https://github.com/manishmehta-in/Sales-Insights-Dashboard/assets/140696340/eab20d4a-8d75-4519-afb0-bc1b55a4020d)
-
-
-**Feel free to explore the dashboard and gain valuable insights into customer sales patterns!**
